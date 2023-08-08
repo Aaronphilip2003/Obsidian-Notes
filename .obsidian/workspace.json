@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "69a0eca633afb89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fc49a3cac4c564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d6052612e3866e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19eb022d58b50096",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c38d7c009f04ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "526f14c56f6c0fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7628f608a2f2f32b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86523f0417f5b020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb534c207771d794",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5c9d18175f6a49aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab25590674dfa83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb75f34619bc84c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7d0755b403701dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fdd92df587361f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194ceb310d0c800c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEC.md"
+              }
+            }
+          },
+          {
+            "id": "b3662a67bf4d592e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "19eb022d58b50096",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Wireless Mobile Device Security.md",
+    "Pasted image 20230807121408.png",
+    "Pasted image 20230808111133.png",
+    "DEC.md",
+    "AIES UNIT 1.md",
+    "Min.md",
+    "ICS Unit 1.md",
+    "ICS Lab 1.md",
+    "AIES LAB 1.md",
+    "2023-08-07.md",
+    "Excalidraw/Drawing 2023-08-07 14.04.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-07 14.04.04.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20230807121230.png",
+    "Pasted image 20230807120848.png",
+    "Pasted image 20230807120604.png",
+    "Pasted image 20230807120528.png",
+    "deterministic.md",
+    "WhatsApp Image 2023-08-07 at 11.36.04 1.jpg",
+    "WhatsApp Image 2023-08-07 at 11.36.04.jpg",
+    "temp.md",
+    "Untitled 1.md",
+    "ICS/hill.py",
+    "ICS/HILLCIPHER.PY",
+    "ICS/caesar.py",
+    "ICS/ceasar.py",
+    "ICS",
+    "New folder"
+  ]
+}
