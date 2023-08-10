@@ -41,3 +41,8 @@ MIT
 - Model - is to be fit on the data
 - Preference - criteria to select one model over the other
 - Search - techniques to evaluate data point or searching of data
+## Goal of Data mining
+
+- It is to provide efficient tools and techniques for KDD
+
+[[Data-Mining.excalidraw]] - A KDD Process

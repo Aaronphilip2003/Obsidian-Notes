@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32fc49a3cac4c564",
+        "id": "8d8199c62985ea35",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d6052612e3866e",
+            "id": "43d253b52c2b63b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEC.md",
+                "file": "AIES UNIT 2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "19eb022d58b50096",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c9d18175f6a49aa",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEC.md",
+                "file": "AIES UNIT 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEC.md",
+                "file": "AIES UNIT 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEC.md"
+                "file": "AIES UNIT 2.md"
               }
             }
           },
@@ -166,14 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19eb022d58b50096",
+  "active": "7628f608a2f2f32b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "AIES UNIT 1.md",
+    "AIES INDEX.md",
+    "Tower_of_Hanoi.excalidraw.md",
+    "AIES UNIT 2.md",
+    "MITACS.md",
+    "DEC.md",
+    "[.md",
     "Wireless Mobile Device Security.md",
+    "Excalidraw/Data-Mining.excalidraw.md",
     "Pasted image 20230807121408.png",
     "Pasted image 20230808111133.png",
-    "DEC.md",
-    "AIES UNIT 1.md",
     "Min.md",
     "ICS Unit 1.md",
     "ICS Lab 1.md",
