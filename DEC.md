@@ -48,3 +48,26 @@ MIT
 [[Data-Mining.excalidraw]] - A KDD Process
 
 
+## Types of data
+
+1. Discrete Data
+2. Continuous data
+
+| Discrete Data        | Continuous Data                        |
+| -------------------- | -------------------------------------- |
+| Countable and finite | Data that falls in continuous sequence |
+| can be sorted        | Cannot be sorted                       |
+
+## Classify the following as discrete or continuous
+
+1.  Number of telephones - Discrete
+2. Size of french fries - Contunuous + interval
+3. Ownership of cell phone - Discrete + nominal
+4. Number of local phone calls you made in a month - Discrete 
+5. Length of longest phone call - Discrete
+6. Length of your foot - Discrete + ratio
+7. Price of notebook - Discrete 
+8. Zip Code - Discrete + interval
+9. Temperature in Fahrenheit - Continuous
+10. Temperature in Celsius - a
+11. Temperature in Kelvin - Discrete

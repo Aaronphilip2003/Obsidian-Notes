@@ -97,3 +97,13 @@
 
 - All standards use carrier-sense multiple access with collision avoidance (CSMA/CA)
 - They have support for both centralized base station as well as ad-hoc networks
+
+## 802.11 standards
+
+### Frame Format
+- Frame control - 2 bytes
+- Duration - 2 bytes
+- Address Fields - 6 bytes
+- Sequence - 2 bytes
+- Data - 2312 bytes
+- Check sequence - 4 bytes
