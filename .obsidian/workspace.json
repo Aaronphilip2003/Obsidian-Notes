@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "2e1185764497eeaf",
+        "id": "e9499aff3758091f",
         "type": "tabs",
         "children": [
           {
-            "id": "4dad94f1e70110e5",
+            "id": "fcb3c7ce53b25f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance.md",
+                "file": "Daily Planner.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3732f769fa94604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Problems Solved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691dbb5ad83f3fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cracking the Coding Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82287ca6b071faed",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance.md",
+                "file": "Cracking the Coding Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance.md",
+                "file": "Cracking the Coding Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance.md"
+                "file": "Cracking the Coding Interview.md"
               }
             }
           },
@@ -137,13 +170,32 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "38037b50fc12b888",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "8f05774b9407446a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,41 +209,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dad94f1e70110e5",
+  "active": "691dbb5ad83f3fc6",
   "lastOpenFiles": [
-    "Finance and Engineering.md",
-    "Wireless Mobile Device Security.md",
-    "AIES INDEX.md",
-    "Untitled.md",
-    "DEC.md",
-    "MITACS (NEW).md",
-    "ICS Unit 1.md",
+    "Pasted image 20231028110358.png",
+    "Pasted image 20231028110324.png",
+    "Daily Planner.md",
+    "DSA Problems Solved.md",
+    "DSA Practice.md",
+    "[DSA Practice.md",
+    "DSA.md",
+    "Cracking the Coding Interview.md",
+    "Pasted image 20231027191211.png",
+    "Pasted image 20231027190026.png",
+    "Pasted image 20231027185500.png",
+    "Pasted image 20231027184706.png",
+    "Pasted image 20231027144715.png",
+    "Pasted image 20231027090700.png",
+    "STL Functions.md",
+    "Pasted image 20231026085505.png",
+    "Pasted image 20231025215448.png",
+    "Pasted image 20231025215424.png",
+    "S-AES.md",
+    "Excalidraw/Drawing 2023-10-24 19.03.57.excalidraw.md",
     "SDES Program.md",
-    "AIES LAB 1.md",
+    "ICS Unit 1.md",
+    "Excalidraw/S-AES_Flowchart.excalidraw.md",
     "Excalidraw/SDES-explanation.excalidraw.md",
-    "MITACS (OLD).md",
-    "Excalidraw/Data-Mining.excalidraw.md",
-    "AIES UNIT 2.md",
-    "Tower_of_Hanoi.excalidraw.md",
+    "Study Plan.md",
+    "Agenda.md",
+    "Wireless Mobile Device Security.md",
+    "MITACS (NEW).md",
+    "NS2 simulation.md",
+    "AIES INDEX.md",
     "AIES UNIT 1.md",
-    "[.md",
-    "Pasted image 20230807121408.png",
-    "Pasted image 20230808111133.png",
-    "Min.md",
-    "ICS Lab 1.md",
-    "2023-08-07.md",
-    "Excalidraw/Drawing 2023-08-07 14.04.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-07 14.04.04.excalidraw.md",
+    "Finance.md",
+    "Finance and Engineering.md",
+    "DEC.md",
+    "AIES LAB 1.md",
+    "MITACS (OLD).md",
     "Excalidraw",
-    "Pasted image 20230807121230.png",
-    "Pasted image 20230807120848.png",
-    "Pasted image 20230807120604.png",
-    "Pasted image 20230807120528.png",
-    "deterministic.md",
-    "WhatsApp Image 2023-08-07 at 11.36.04 1.jpg",
-    "WhatsApp Image 2023-08-07 at 11.36.04.jpg",
-    "temp.md",
-    "Untitled 1.md",
     "ICS/hill.py",
     "ICS/HILLCIPHER.PY",
     "ICS/caesar.py",
