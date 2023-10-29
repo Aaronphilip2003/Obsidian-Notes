@@ -1,4 +1,5 @@
 STL Functions [[STL Functions]]
+Go to [[DSA Notes]] for main points
 
 1. 
 ![[Pasted image 20230822215707.png]]
@@ -234,3 +235,54 @@ public:
 };
 ```
 ![[Pasted image 20231027191211.png]]
+
+6. ![[Pasted image 20231028132345.png]]
+
+Method 1: Brute Force (Exceeds time limit)
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int max_=INT_MIN;
+        for(int i=0;i<prices.size();i++)
+        {
+            for(int j=i+1;j<prices.size();j++)
+            {
+                int temp_max=0;
+                if(prices[j]-prices[i]>0)
+                {
+                    temp_max=prices[j]-prices[i];
+                }
+            if(temp_max>max_)
+            {
+                max_=temp_max;
+            }
+            }
+        }
+        if (max_==INT_MIN)
+        {
+            return 0;
+        }
+        return max_;
+    }
+};
+```
+
+Method 2: One pass solution
+
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int profit=0;
+        int minPrice=INT_MAX;
+        for(int i=0;i<prices.size();i++)
+        {
+            minPrice=min(minPrice,prices[i]);
+            profit=max(profit,prices[i]-minPrice);
+        }
+        return profit;
+    }
+};
+```
+f

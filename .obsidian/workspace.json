@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9499aff3758091f",
+        "id": "06962be9fe01cc26",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb3c7ce53b25f7e",
+            "id": "e63fff85d589bce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Planner.md",
+                "file": "DSA Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3732f769fa94604",
+            "id": "e53dc6c75efdf017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92b315a65fecb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,26 +41,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "691dbb5ad83f3fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cracking the Coding Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82287ca6b071faed",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
             }
           }
         ],
@@ -81,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DSA",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -103,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c9d18175f6a49aa",
@@ -119,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cracking the Coding Interview.md",
+                "file": "DSA Problems Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cracking the Coding Interview.md",
+                "file": "DSA Problems Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cracking the Coding Interview.md"
+                "file": "DSA Problems Solved.md"
               }
             }
           },
@@ -209,16 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "691dbb5ad83f3fc6",
+  "active": "86523f0417f5b020",
   "lastOpenFiles": [
+    "DSA Practice.md",
+    "Daily Planner.md",
+    "DSA Notes.md",
+    "DSA Problems Solved.md",
+    "Pasted image 20231028132345.png",
+    "Cracking the Coding Interview.md",
+    "Pasted image 20231028123241.png",
+    "2023-10-28.md",
     "Pasted image 20231028110358.png",
     "Pasted image 20231028110324.png",
-    "Daily Planner.md",
-    "DSA Problems Solved.md",
-    "DSA Practice.md",
     "[DSA Practice.md",
     "DSA.md",
-    "Cracking the Coding Interview.md",
     "Pasted image 20231027191211.png",
     "Pasted image 20231027190026.png",
     "Pasted image 20231027185500.png",
@@ -226,9 +223,6 @@
     "Pasted image 20231027144715.png",
     "Pasted image 20231027090700.png",
     "STL Functions.md",
-    "Pasted image 20231026085505.png",
-    "Pasted image 20231025215448.png",
-    "Pasted image 20231025215424.png",
     "S-AES.md",
     "Excalidraw/Drawing 2023-10-24 19.03.57.excalidraw.md",
     "SDES Program.md",
@@ -245,8 +239,6 @@
     "Finance.md",
     "Finance and Engineering.md",
     "DEC.md",
-    "AIES LAB 1.md",
-    "MITACS (OLD).md",
     "Excalidraw",
     "ICS/hill.py",
     "ICS/HILLCIPHER.PY",

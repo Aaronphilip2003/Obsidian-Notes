@@ -4,3 +4,4 @@
 3. Next Permutation [Medium]
 4. Maximum Subarray [Medium]
 5. Sort Colors [Medium]
+6. Best Time to Buy and Sell Stock [Easy]

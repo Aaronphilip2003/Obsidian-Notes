@@ -7,4 +7,7 @@ Think and write about this before interviews
 Think about some genuine weaknesses
 
 
+# **Big O**
+
+![[Pasted image 20231028123241.png]]
 
