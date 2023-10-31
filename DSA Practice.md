@@ -285,4 +285,75 @@ public:
     }
 };
 ```
-f
+
+
+Problem Set 2
+1. 
+
+![[Pasted image 20231029132403.png]]
+
+Method : 
+To rotate 90 :
+1) transpose
+2) reverse the elements inside
+
+```cpp
+class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        for(int i=0;i<n;i++)
+        {
+            for(int j=i;j<n;j++)
+            {
+                int temp=matrix[i][j];
+                matrix[i][j]=matrix[j][i];
+                matrix[j][i]=temp;
+            }
+        }
+        for(int i=0;i<n;i++)
+        {
+            reverse(matrix[i].begin(),matrix[i].end());
+        }
+    }
+};
+```
+
+2. ![[Pasted image 20231030092100.png]]
+
+First sort the lists
+check if the last element of i is < first element of i+1
+if yes then merge first element of i with last element of i+1
+do this for every iterable list
+
+
+Optimal Solution
+1 iteration
+
+```cpp
+class Solution {
+public:
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        vector<vector<int>> ans;
+        int n=intervals.size();
+        sort(intervals.begin(),intervals.end());
+        for(int i=0;i<n;i++)
+        {
+            if(ans.empty() || intervals[i][0]>ans.back()[1]) // new interval found
+            {
+                ans.push_back(intervals[i]); // new interval pushed
+            }
+            else
+            {
+                ans.back()[1]=max(ans.back()[1],intervals[i][1]);
+            }
+        }
+        return ans;
+    }
+};
+//  [[1,3],[2,6],[8,10],[15,18]]
+
+// start = 1
+
+// end = 3
+```

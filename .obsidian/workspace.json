@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "f92b315a65fecb10",
+            "id": "41dd02af87fb0b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +73,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c9d18175f6a49aa",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Problems Solved.md",
+                "file": "DSA Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Problems Solved.md",
+                "file": "DSA Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Problems Solved.md"
+                "file": "DSA Practice.md"
               }
             }
           },
@@ -202,12 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86523f0417f5b020",
+  "active": "e63fff85d589bce8",
   "lastOpenFiles": [
-    "DSA Practice.md",
-    "Daily Planner.md",
     "DSA Notes.md",
     "DSA Problems Solved.md",
+    "DSA Practice.md",
+    "Pasted image 20231030092100.png",
+    "Pasted image 20231029132403.png",
+    "Daily Planner.md",
     "Pasted image 20231028132345.png",
     "Cracking the Coding Interview.md",
     "Pasted image 20231028123241.png",
@@ -220,8 +220,6 @@
     "Pasted image 20231027190026.png",
     "Pasted image 20231027185500.png",
     "Pasted image 20231027184706.png",
-    "Pasted image 20231027144715.png",
-    "Pasted image 20231027090700.png",
     "STL Functions.md",
     "S-AES.md",
     "Excalidraw/Drawing 2023-10-24 19.03.57.excalidraw.md",
