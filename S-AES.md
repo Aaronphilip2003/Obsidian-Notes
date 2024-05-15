@@ -33,7 +33,6 @@ w2 = w0 ⊕ Rcon(1) ⊕ Subnib(RotNib(w1))
 w3 = w2 ⊕ w1
 w4 = w2 ⊕ Rcon(2) ⊕ SubNib(RotNib(w3))
 w5 = w4 ⊕ w3
-
 key0 = w0w1
 key1 = w2w3
 key2 = w4w5

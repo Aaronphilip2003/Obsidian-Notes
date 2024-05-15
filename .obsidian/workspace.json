@@ -4,46 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "06962be9fe01cc26",
+        "id": "cd0c7d748a684577",
         "type": "tabs",
         "children": [
           {
-            "id": "e63fff85d589bce8",
+            "id": "66ba7516128d9bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e53dc6c75efdf017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41dd02af87fb0b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA Problems Solved.md",
+                "file": "Bobby Uncle Blog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -89,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice.md",
+                "file": "Bobby Uncle Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice.md",
+                "file": "Bobby Uncle Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice.md"
+                "file": "Bobby Uncle Blog.md"
               }
             }
           },
@@ -168,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -181,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,53 +174,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e63fff85d589bce8",
+  "active": "66ba7516128d9bb6",
   "lastOpenFiles": [
-    "DSA Notes.md",
-    "DSA Problems Solved.md",
-    "DSA Practice.md",
-    "Pasted image 20231030092100.png",
-    "Pasted image 20231029132403.png",
-    "Daily Planner.md",
-    "Pasted image 20231028132345.png",
-    "Cracking the Coding Interview.md",
-    "Pasted image 20231028123241.png",
-    "2023-10-28.md",
-    "Pasted image 20231028110358.png",
-    "Pasted image 20231028110324.png",
-    "[DSA Practice.md",
-    "DSA.md",
-    "Pasted image 20231027191211.png",
-    "Pasted image 20231027190026.png",
-    "Pasted image 20231027185500.png",
-    "Pasted image 20231027184706.png",
-    "STL Functions.md",
-    "S-AES.md",
-    "Excalidraw/Drawing 2023-10-24 19.03.57.excalidraw.md",
-    "SDES Program.md",
-    "ICS Unit 1.md",
-    "Excalidraw/S-AES_Flowchart.excalidraw.md",
-    "Excalidraw/SDES-explanation.excalidraw.md",
-    "Study Plan.md",
-    "Agenda.md",
-    "Wireless Mobile Device Security.md",
-    "MITACS (NEW).md",
+    "HPC/Assignment 4.md",
+    "Pasted image 20240424193149.png",
+    "HPC/Assignment 3 Bubble Sort.md",
+    "HPC/Assignment 9 - CUDA.md",
+    "HPC.md",
+    "Bobby Uncle Blog.md",
+    "HPC/Assignment 6 - Creation of Cluster.md",
+    "Pasted image 20240423173711.png",
+    "Pasted image 20240423173704.png",
+    "Pasted image 20240423173657.png",
+    "Pasted image 20240423173651.png",
+    "Pasted image 20240423173645.png",
+    "ary hello2program.png",
+    "Pasted image 20240423173257.png",
+    "Pasted image 20240423173253.png",
+    "Pasted image 20240423173246.png",
+    "HPC/Assignment 5 Quick Sort.md",
+    "HPC/Assignment 2 Merge Sort.md",
+    "Softlander Report 03/3rd Jan (Activity Generation).md",
+    "Softlander Report 03/4th Jan (Course Generation).md",
+    "Untitled.md",
+    "Bullet test.md",
+    "HPC/Application Case Study for HPC.md",
+    "Softlander Report 03/Gamification Ideas and Business Logic.md",
+    "ML.md",
     "NS2 simulation.md",
-    "AIES INDEX.md",
-    "AIES UNIT 1.md",
-    "Finance.md",
-    "Finance and Engineering.md",
-    "DEC.md",
+    "Machine Learning.md",
+    "Financial Management.md",
+    "Softlander Report 03/Casdoor Issue.md",
+    "HPC/Assignment.md",
+    "Softlander Report 03/Casdoor JSON template.md",
+    "Softlander Report 03/Casdoor Implementation.md",
+    "Softlander Report 03/random.md",
+    "Softlander Report 03/6th February (CASBIN).md",
+    "Softlander Report 03/5th Jan (Assessment Generation).md",
+    "JPC",
+    "HPC",
+    "Softlander Report 03/01",
+    "Softlander Report 03",
     "Excalidraw",
     "ICS/hill.py",
     "ICS/HILLCIPHER.PY",
     "ICS/caesar.py",
     "ICS/ceasar.py",
-    "ICS",
-    "New folder"
+    "ICS"
   ]
 }
